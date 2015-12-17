@@ -22,3 +22,27 @@ server-status
 WEB-INF (copy)/web.xml
 WEB-INF - Copy/web.xml
 Copy of WEB-INF/web.xml
+config.php.bak
+config.php.swp
+web.log
+log.log
+log.zip
+log.rar
+log.tar.gz
+www.zip
+www.rar
+www.tar.gz
+web.zip
+web.rar
+web.tar.gz
+webroot.zip
+webroot.rar
+webroot.tar.gz
+db.sql
+db.tar.gz
+db.zip
+backup.tar.gz
+backup.rar
+backup.zip
+config.inc
+
